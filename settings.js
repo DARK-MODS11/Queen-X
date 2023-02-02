@@ -24,7 +24,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy 
 global.ownernomer = "918606102841" //ur number
 global.premium = ['918606102841'] //ur premium number
-global.botname = '©Qᴜᴇᴇɴ8-x ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ' //ur bot name
+global.botname = '𝑨𝒃𝒉𝒊𝒏𝒂𝒏𝒅𝒉' //ur bot name
 global.linkz = "https://chat.whatsapp.com/BmtCeRL04Fs6DjIJpzJqtU" //your theme url which will be displayed on whatsapp
 global.websitex = "https:// no" //ur website to be displayed
 global.botscript = 'https://github.com/DARK-MODS11/Queen-X' //script link
