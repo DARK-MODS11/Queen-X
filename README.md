@@ -7,7 +7,7 @@
 
 ## SCAN QR FROM HERE (Open in Firefox)
 
-https://replit.com/@yureshkav/QUEEN-X-QR-CODE
+https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js
 
 # DEPLOY👇
 
