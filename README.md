@@ -6,7 +6,8 @@
 
 # Setup For Deployment 👇
 
-## `Scan QR Code For Session`
+## SCAN QR FROM HERE (Open in Firefox)
+
 https://replit.com/@yureshkav/QUEEN-X-QR-CODE
 
 ## `Qr 2`
@@ -21,3 +22,16 @@ https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20on
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/dashboard)
 
 [![Deploy on Koyeb](https://telegra.ph/file/48228bbb836479f7a2863.png)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
+
+[![whatsapp number] (918606102841)
+
+[![whatsapp group] (https://chat.whatsapp.com/BmtCeRL04Fs6DjIJpzJqtU)
+
+
+
+             𝑴𝑶𝑫𝑬𝑫 𝑩𝒀 𝑨𝑩𝑯𝑰𝑵𝑨𝑵𝑫𝑯
+
+           𝑪𝑯𝑨𝑵𝑵𝑬𝑳 𝑵𝑨𝑴𝑬 𝑬𝑿 𝑴𝑶𝑫𝒁 𝑶𝑭𝑪 
+ 
+
+              𝑩𝒀𝑬. 𝑩𝒀𝑹. 𝑩𝒀𝑬. 𝑩𝒀𝑬. 𝑩𝒀𝑬. 
