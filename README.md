@@ -1,6 +1,6 @@
 <h1 align="center">𝑬𝑿 𝑴𝑶𝑫𝒁 𝑶𝑭𝑪<br></h1>
 <p align="center">
-<img src="https://uploadnow.io/f/SWlCsmJVMDxto71BqS_aThh9WLGw&oe=63E1CB9F" alt="animated" width="540" height="280" />
+<img src="https://uploadnow.io/f/SWlCsmJ
 </p>
 
 
