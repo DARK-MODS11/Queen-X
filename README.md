@@ -1,7 +1,6 @@
 <h1 align="center">𝑬𝑿 𝑴𝑶𝑫𝒁 𝑶𝑭𝑪<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/638a5852557c46fc4f020.jpg" alt="animated" width="253" height="306" />
-</p>
+<img border-radius: 15px src="https://i.imgur.com/bn6IU67.jpeg" width="200" height="200"/>
 
 
 # Setup For Deployment 👇
@@ -26,9 +25,16 @@ https://replit.com/@yureshkav/QUEEN-X-QR-CODE
 </p>
 
 
-             𝑴𝑶𝑫𝑬𝑫 𝑩𝒀 𝑨𝑩𝑯𝑰𝑵𝑨𝑵𝑫𝑯
-
-           𝑪𝑯𝑨𝑵𝑵𝑬𝑳 𝑵𝑨𝑴𝑬 𝑬𝑿 𝑴𝑶𝑫𝒁 𝑶𝑭𝑪 
- 
-
-              𝑩𝒀𝑬. 𝑩𝒀𝑹. 𝑩𝒀𝑬. 𝑩𝒀𝑬. 𝑩𝒀𝑬. 
+               SESSION_ID : Your Session ID that You recieved ,
+  
+  AUTHOR : Author Name of Sticker,
+  
+  PACKNAME : Packname of Sticker,   
+  
+  IMAGE: Image For Image templates
+  
+  WATERMARK : Watermark For Buttons
+  
+  OWNER : wa.me//:918606102841
+  
+  OWNER_NAME : ABHINANDH
