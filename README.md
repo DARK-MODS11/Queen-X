@@ -1,6 +1,6 @@
 <h1 align="center">𝑬𝑿 𝑴𝑶𝑫𝒁 𝑶𝑭𝑪<br></h1>
 <p align="center">
-<img src="https://uploadnow.io/f/SWlCsmJ
+<img src="https://telegra.ph/file/638a5852557c46fc4f020.jpg" alt="animated" width="253" height="306" />
 </p>
 
 
